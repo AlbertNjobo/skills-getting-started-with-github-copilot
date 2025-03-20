@@ -103,6 +103,17 @@ body.dark-mode .activity-card {
   color: #555;
 }
 
+.activity-card p.participants {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+}
+
+body.dark-mode .activity-card p.participants {
+  color: #ccc;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
